@@ -191,8 +191,8 @@ let additions =
       , cardano-plutus-data-schema =
         { dependencies = [ "prelude" ]
         , repo =
-            "https://github.com/mlabs-haskell/purescript-cardano-plutus-data-schema"
-        , version = "eb0bb78927c50c4bee364e932c9fa8cf94546191"
+            "https://github.com/IndigoProtocol/purescript-cardano-plutus-data-schema"
+        , version = "e1b93b36f183c178ef49a576eaf38afb57c31f14"
         }
       , js-bigints =
         { dependencies = [ "integers", "maybe", "prelude" ]
