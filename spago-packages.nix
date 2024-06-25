@@ -167,7 +167,7 @@ let
         src = pkgs.fetchgit {
           url = "https://github.com/IndigoProtocol/purescript-cardano-plutus-data-schema";
           rev = "e1b93b36f183c178ef49a576eaf38afb57c31f14";
-          sha256 = "e1b93b36f183c178ef49a576eaf38afb57c31f14";
+          sha256 = "0r33nrwjcrcx332jcnkn495h4x4ah6rk47vyn6d2z63kwi760741";
         };
         phases = "installPhase";
         installPhase = "ln -s $src $out";
