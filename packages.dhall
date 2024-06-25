@@ -192,7 +192,7 @@ let additions =
         { dependencies = [ "prelude" ]
         , repo =
             "https://github.com/IndigoProtocol/purescript-cardano-plutus-data-schema"
-        , version = "e1b93b36f183c178ef49a576eaf38afb57c31f14"
+        , version = "db745aa1a82bc1e96fba8a9cb8bbdc1db7083eb7"
         }
       , js-bigints =
         { dependencies = [ "integers", "maybe", "prelude" ]
